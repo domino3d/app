@@ -6,3 +6,5 @@ scss is not implemented due to inability to install python on localhost. Yeah, i
 
 ## url
 https://domino3d.github.io/app/
+
+![image](https://github.com/domino3d/app/assets/10728013/10c8e330-3776-4eb0-8969-da61cf1c6b1d)
