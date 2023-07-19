@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/domino3d.github.io/static/css/main.13f1086f.css",
+    "main.js": "/domino3d.github.io/static/js/main.997411ad.js",
+    "index.html": "/domino3d.github.io/index.html",
+    "main.13f1086f.css.map": "/domino3d.github.io/static/css/main.13f1086f.css.map",
+    "main.997411ad.js.map": "/domino3d.github.io/static/js/main.997411ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f1086f.css",
+    "static/js/main.997411ad.js"
+  ]
+}
