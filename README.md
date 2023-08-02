@@ -1,8 +1,8 @@
 # TODO App
-yet another todo app in react using typescript and Redux Toolkit, implementing CRUD operations on list items
+Yet another todo app in react using typescript and Redux Toolkit, implementing CRUD operations on list items
 
-this is only clone repo to play with ci/cd
-main repo with commits is here https://github.com/domino3d/react-todo
+This is only clone repo to play with ci/cd
+Main repo with commits is here https://github.com/domino3d/react-todo
 
 ## known issues 
 scss is not implemented due to inability to install python on localhost. Yeah, i know css could be much better then
