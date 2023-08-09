@@ -1,7 +1,7 @@
 # TODO App
 Yet another todo app in react using typescript and Redux Toolkit, implementing CRUD operations on list items
 
-This is only clone repo to play with ci/cd
+This is only clone repo to play with CU/CD
 Main repo with commits is here https://github.com/domino3d/react-todo
 
 ## known issues 
